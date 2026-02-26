@@ -1,0 +1,15 @@
+/* 注释，对应PPT 47页 */
+/* 给h1标题设置样式 */
+h1 {
+    color: darkblue;
+    font-size: 30px;
+}
+/* 给带standout类的段落设置样式，对应PPT 48页 */
+.standout {
+    color: red;
+    font-size: 20px;
+}
+/* 鼠标悬停在段落上变背景色，对应PPT 52页 */
+p:hover {
+    background-color: lightgray;
+}
